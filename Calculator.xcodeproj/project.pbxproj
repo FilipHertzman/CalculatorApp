@@ -44,6 +44,7 @@
 			isa = PBXGroup;
 			children = (
 				8B3B672329EDC6DB0072EB84 /* CalculatorApp.swift */,
+				8BCA32402A04560F00167A58 /* calculator-backend */,
 				8B3B672229EDC6DB0072EB84 /* Calculator */,
 				8B3B672129EDC6DB0072EB84 /* Products */,
 			);
@@ -60,7 +61,6 @@
 		8B3B672229EDC6DB0072EB84 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				8BCA32402A04560F00167A58 /* calculator-backend */,
 				8B3B673229EDCBF80072EB84 /* Model */,
 				8B3B673329EDCBFE0072EB84 /* ViewModel */,
 				8B3B673129EDCBDE0072EB84 /* View */,
