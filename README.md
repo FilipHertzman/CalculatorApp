@@ -6,11 +6,20 @@ This calculator app is a versatile and user-friendly tool designed to perform va
 
 ## Key features of the app include:
 
-- Simple and intuitive user interface that allows users to input values and choose from a range of operations easily.
-- Supports various mathematical operations, including addition, subtraction, division, multiplication, square root, percentage, Pythagorean theorem, area of a circle, and volume of a cylinder.
-- Utilizes a remote backend server built with Node.js and Express for performing calculations, demonstrating the power of separating business logic from the presentation layer.
-- Designed using the MVVM architecture, enabling a clean separation of concerns and making it easier to maintain and expand upon in the future.
-- Network communication handled using URLSession, showcasing a robust approach to managing API calls in a modern iOS app.
+- **Simple and intuitive user interface**:  
+  Allows users to input values and choose from a range of operations easily.
+
+- **Supports various mathematical operations**:  
+  Includes addition, subtraction, division, multiplication, square root, percentage, Pythagorean theorem, area of a circle, and volume of a cylinder.
+
+- **Remote backend server**:  
+  Built with Node.js and Express for performing calculations, demonstrating the power of separating business logic from the presentation layer.
+
+- **MVVM architecture**:  
+  Enables a clean separation of concerns and makes it easier to maintain and expand upon in the future.
+
+- **Network communication**:  
+  Handled using URLSession, showcasing a robust approach to managing API calls in a modern iOS app.
 
 ## License
 This project has no licenses
