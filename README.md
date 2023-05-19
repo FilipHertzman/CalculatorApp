@@ -1,6 +1,6 @@
 # Calculator with Remote Backend - Xcode, SwiftUI
 
-This calculator app is a versatile and user-friendly tool designed to perform various mathematical operations using a remote backend. It showcases the seamless integration of front-end and back-end technologies, delivering an efficient and responsive experience.
+This calculator app is a tool designed to perform various mathematical operations using a remote backend. It showcases the integration of front-end and back-end technologies.
 
 ![ Calculator with Remote Backend Screenshot](https://images.squarespace-cdn.com/content/v1/62ddae4178abf52ddb78cf19/5db5a131-d28f-4127-b49d-68ecffbb9fb0/Group21.png?format=1000w)
 
@@ -13,13 +13,13 @@ This calculator app is a versatile and user-friendly tool designed to perform va
   Includes addition, subtraction, division, multiplication, square root, percentage, Pythagorean theorem, area of a circle, and volume of a cylinder.
 
 - **Remote backend server**:  
-  Built with Node.js and Express for performing calculations, demonstrating the power of separating business logic from the presentation layer.
+  Built with Node.js and Express for performing calculations.
 
 - **MVVM architecture**:  
   Enables a clean separation of concerns and makes it easier to maintain and expand upon in the future.
 
 - **Network communication**:  
-  Handled using URLSession, showcasing a robust approach to managing API calls in a modern iOS app.
+  Handled using URLSession, showcasing a robust approach to managing API calls.
 
 ## License
 This project has no licenses
